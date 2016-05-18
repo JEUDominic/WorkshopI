@@ -169,8 +169,8 @@
                             <div class="panel-body">
                                 <div id="container" style="height:250px;width:100%;">
                                 </div>
-                           
                             
+                            <div class="panel-footer">
                                 <div id="r-result">
                                 <div class="col-lg-2"></div>
                                 <div class="col-lg-4">
@@ -181,7 +181,8 @@
                                 </div>
                                 <div class="col-lg-2"></div>
                                 </div>
-                             </div>
+                            </div>
+                            </div>
                                
                  <!-- /#wrapper -->
     <!-- MapHotareaJS -->
